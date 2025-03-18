@@ -6,4 +6,5 @@ Created as part of a hands-on tutorial
 This line was added in feature-readme-update branch.
 This line was edited in conflict-branch.
 
-# This is the conflict-branch change
+# This is the main branch change
+
